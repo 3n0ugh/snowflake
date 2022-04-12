@@ -2,7 +2,7 @@
 
 Here is the twitter [blog](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake) about snowflake.
 
-----> Image Here <----
+<img width="1126" alt="Screen Shot 2022-04-12 at 10 15 06" src="https://user-images.githubusercontent.com/69458980/162902896-d6982af3-cd83-49de-92b1-0afd080605de.png">
 
 - The first bit is an unused assigned bit.
 - The second part consists of a 41-bit timestamp (milliseconds) whose value is
