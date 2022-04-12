@@ -17,7 +17,7 @@ Here is the twitter [blog](https://blog.twitter.com/engineering/en_us/a/2010/ann
 - The binary length of 41 bits is at most `2^41-1 millisecond = 69 years`. So the snowflake
   algorithm can be used for up to 69 years.
 
-##Usage
+## Usage
 
 - Check the [example program](https://github.com/3n0ugh/snowflake/blob/main/example/main.go).
 ```go
