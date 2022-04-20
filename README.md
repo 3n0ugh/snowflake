@@ -22,7 +22,7 @@ Here is the twitter [blog](https://blog.twitter.com/engineering/en_us/a/2010/ann
 - Check the [example program](https://github.com/3n0ugh/snowflake/blob/main/example/main.go).
 ```go
    // Create a node
-   node, err := snowflake.NewNode(30, 3)
+   n, err := snowflake.NewNode(30, 3)
    if err != nil {
       fmt.Println(err)
    }
